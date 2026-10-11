@@ -4,7 +4,7 @@ Migrate Selenium to Playwright for Java (Java to Java, Gradle). Keep Cucumber an
 
 # Baseline (branch main)
 
-Selenium suite passes: 4 scenarios, 8 executions, Java 17, gradlew test ~15s warm.
+Selenium suite passes: 4 scenarios, 8 executions, Java 21, gradlew test ~15s warm.
 
 # Rules
 
