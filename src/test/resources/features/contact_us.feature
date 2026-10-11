@@ -1,4 +1,4 @@
-@contact-us @regression
+@contact-us @regression @smoke
 Feature:  Webdriver University Contact Us page
 
    Scenario: Validate Successful submission - Unique Data
