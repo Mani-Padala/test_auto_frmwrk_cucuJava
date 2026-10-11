@@ -1,4 +1,4 @@
-@parameter
+@parameter @smoke
 Feature:  Testing parameters
 
 Scenario: Validate Successful submissions - Unique Data
